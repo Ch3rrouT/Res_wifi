@@ -3,22 +3,22 @@
 
 # Res_wifi V0.2
 
-# En donde lo ejecuto ? 
+# So, how do I execute it? 
 
 
-En tu android !! ;) 
-Dale permisos mira asi : chmod 777 res_wifi.sh
+In your android
+Giving permission t : chmod 777 res_wifi.sh
 
-# Que necesito :O
-
-
-Necesitas ser root , tener busybox , y una terminal y tus dedos claro ! ;)
+# What I will need?
 
 
-# En donde lo probastes ? 
+You will need root, busybox, one terminal and your fingers of course! ;)
 
 
-Pues lo probe con un celular que me encontre xd un Sony ! 
+# Where you tested it?
+
+
+I did it on a Sony. 
 
 # TUTORIAL :
 
